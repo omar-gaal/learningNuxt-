@@ -36,4 +36,7 @@ export default {
     <input v-model="credentials.password" type="password" placeholder="Password">
     <button type="submit">Login</button>
    </form>
+
+
+
 </template>
